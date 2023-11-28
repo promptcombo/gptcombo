@@ -1,7 +1,8 @@
 # GPT Combo
 Largest GPT store with 25000+ GPTs for free
 
-![Ảnh màn hình 2023-11-17 lúc 09 59 55](https://github.com/buithehien1991/gptcombo/assets/577666/291f7547-9829-4de3-bed2-cba2debf107c)
+![image](https://github.com/promptcombo/gptcombo/assets/577666/fa8d3f56-0817-4f50-993f-b092633ffab4)
+
 
 ## Introduction
 GPT Combo https://gptcombo.com with target: The world's largest GPTs marketplace. So we need your help so much!
